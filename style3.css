@@ -1,0 +1,25 @@
+.image-panel{
+    margin-left: 1400px;
+    width: 30%;
+    position: fixed;
+    margin-top: 0; 
+    height: 100vh;
+}
+.first-title{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.first-text{
+    margin-left: 200px;
+    margin-right: 800px;
+}
+.jopa{
+    margin-left: 200px;
+    color:#1c92d2;
+}
+.block{
+    background: #f2fcfe;
+}
+.second-title{
+    margin-left: 200px;
+}

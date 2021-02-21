@@ -1,0 +1,36 @@
+.first{
+    color:#f0f8ff;
+    width: 45%;
+}
+.start{
+    /* margin-top: 100px; */
+    text-shadow: grey 0 0 10px;
+}
+body{
+    background-image: url(nano1.jpg);
+}
+.menu1{
+    color:aliceblue;
+}
+.nav-link{
+    margin-left: 50px;
+}
+.info{
+    text-align: left;
+}
+.picture{
+    width:120%;
+}
+.first-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top:200px;
+    margin-left: 500px;
+}
+.first-block>.photo{
+   width: 300px;
+   margin-top: 50px;
+   margin-right:80px;
+}
